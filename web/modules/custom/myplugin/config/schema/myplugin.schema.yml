@@ -1,0 +1,3 @@
+action.configuration.myplugin:
+  type: featured_node_action
+  label: 'Featured Node'
